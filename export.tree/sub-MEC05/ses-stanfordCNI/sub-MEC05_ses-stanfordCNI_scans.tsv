@@ -1,0 +1,5 @@
+filename	acq_time	operator	randstr
+func/sub-MEC05_ses-stanfordCNI_task-prf_run-01_bold.nii.gz	2020-11-18T09:23:37	n/a	02a4e998
+func/sub-MEC05_ses-stanfordCNI_task-prf_run-02_bold.nii.gz	2020-11-18T09:27:37	n/a	b0ac27a2
+func/sub-MEC05_ses-stanfordCNI_task-prf_run-03_bold.nii.gz	2020-11-18T09:31:57	n/a	0b8fe6d7
+anat/sub-MEC05_ses-stanfordCNI_run-01_T1w.nii.gz	2019-11-11T14:19:29	n/a	43229390
