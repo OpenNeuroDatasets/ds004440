@@ -1,5 +1,5 @@
 {
-    "Acknowledgements": "TODO: whom you want to acknowledge",
+    "Acknowledgements": "",
     "Authors": [
         "Marc Himmelberg",
         "Ekin Tuncok",
@@ -9,18 +9,18 @@
         "Jonathan Winawer"
     ],
     "BIDSVersion": "1.0.1",
-    "DatasetDOI": "doi:10.18112/openneuro.ds004440.v1.0.0",
+    "DatasetDOI": "TODO: eventually a DOI for the dataset",
     "Funding": [
+        "R01-EY023915",
         "R01-EY027401",
         "P30-EY013079",
-        "R01-EY022318",
-        "R01-EY023915"
+        "R01-EY022318"
     ],
-    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
-    "License": "CC0",
+    "HowToAcknowledge": "Cite the publication",
+    "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
     "Name": "Stanford Child and Adult Checkerboard Retinotopy Dataset",
     "ReferencesAndLinks": [
-        "TODO",
-        "List of papers or websites"
+        "Comparing visual cortex of children and adults reveals a late-stage change in how V1 samples the visual field",
+        "Development differentially sculpts receptive fields across early and high-level human visual cortex"
     ]
 }
