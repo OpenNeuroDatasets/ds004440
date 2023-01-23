@@ -1,0 +1,14 @@
+The <b>Stanford Child and Adult Checkerboard Retinotopy Dataset </b> is a part of <i>'Comparing retinotopic maps of children and adults reveals a late-stage change in how V1 samples the visual field'</I> by Marc Himmelberg, Ekin Tuncok, Jesse Gomez, Kalanit Grill-Spector, Marisa Carrasco, and Jonathan Winawer.
+
+The full dataset consists of 49 subjects (25 children and 24 adults), including freesurfer processed anatomical data, raw and preprocessed (via fMRIprep) functional data on the fsnative surface, vistasoft pRF model outputs. 
+
+<b><u>Dataset organisation:</u></b><br><br>
+
+<b>StanfordChildAdultCheckerboardRetinotopy:</b> This folder contains subject folders holding the raw, unprocessed data for each subject (nifti files).
+
+<b>ChildAdultRetinotopy/derivatives/fmriprep:</b> This folder contains subject folders and fmriprep output logs. Within each subjects session folder you can find functional data on the fsnative (.mgz files)
+
+<b>ChildAdultRetinotopy/derivatives/freesurfer:</b> This folder contains subject folders with freesurfer output 
+
+<b>ChildAdultRetinotopy/derivatives/prfanalyze-vista:</b> Here you can find subject folders that house the vistasoft pRF model output on the fsnative surface for each subject (.mgz)
+<br>
