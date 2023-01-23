@@ -9,7 +9,7 @@
         "Jonathan Winawer"
     ],
     "BIDSVersion": "1.0.1",
-    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004440.v1.0.1",
     "Funding": [
         "R01-EY023915",
         "R01-EY027401",
@@ -17,7 +17,7 @@
         "R01-EY022318"
     ],
     "HowToAcknowledge": "Cite the publication",
-    "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
+    "License": "CC0",
     "Name": "Stanford Child and Adult Checkerboard Retinotopy Dataset",
     "ReferencesAndLinks": [
         "Comparing visual cortex of children and adults reveals a late-stage change in how V1 samples the visual field",
